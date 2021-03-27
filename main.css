@@ -4,6 +4,7 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+    color: cornsilk;
 }
 
 body {
@@ -12,12 +13,45 @@ body {
 }
 
 nav {
-  background:blue;
+  background: darkslategray;
+  width: 100%;
+  height: 80%;
 }
 
-#Hauptwort {
-  text-align: center;
+a.logo {
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 50px;
 }
+nav ul {
+    float: right;
+    margin-right: 20px;
+}
+nav ul li {
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+nav ul li a {
+  color: aliceblue;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+a:hover {
+  background-color: dimgray;
+  transition: .5s;
+}
+
+h1 {
+  padding: 0 50px;
+}
+
+div.certificates {
+  padding: 0 55px;
+  text-align: left;
+}
+
 
 #cv {
   color: #fff;
@@ -25,4 +59,8 @@ nav {
 
 #LinkedIn {
   color:aliceblue;
+}
+
+#copyright {
+  text-align: center;
 }
