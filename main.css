@@ -61,6 +61,10 @@ div.certificates {
   color:aliceblue;
 }
 
+#linkedin-glyph {
+  width: 20px;
+  text-align: center;
+}
 #copyright {
   text-align: center;
 }
