@@ -45,6 +45,9 @@ a:hover {
 
 /* BODY */
 
+div {
+    padding: 0 50px;
+}
 h1 p h3 {
     padding: 0 50px;
 }
