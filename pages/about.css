@@ -43,34 +43,6 @@ a:hover {
   transition: .5s;
 }
 
-/* GALLERY*/
-
-h1 {
-    padding: 0 50px;
-    margin-bottom: 30px;
-}
-.container {
-    max-width:1200px;
-    margin: auto;
-    background-color:darkgray;
-    overflow: auto;
-}
-
-.gallery {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 390px;
-}
-
-.gallery img {
-    width: 100%;
-    height: auto;
-}
-.img-description {
-    padding: 15px;
-    text-align: center;
-}
 
 
 /*FOOTER*/
