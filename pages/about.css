@@ -43,7 +43,11 @@ a:hover {
   transition: .5s;
 }
 
+/* BODY */
 
+h1, p {
+    padding: 0 50px;
+}
 
 /*FOOTER*/
 
