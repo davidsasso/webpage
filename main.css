@@ -56,6 +56,11 @@ div.certificates {
   text-align: left;
 }
 
+div.report {
+  padding: 0 55px;
+  text-align: left;
+}
+
 
 #cv {
   color: #fff;
